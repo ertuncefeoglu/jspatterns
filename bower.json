@@ -1,0 +1,28 @@
+{
+  "name": "jspatterns",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ertunç Efeoğlu <ertuncefeoglu@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "design",
+    "patterns"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.22"
+  }
+}
